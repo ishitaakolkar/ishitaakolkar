@@ -1,5 +1,5 @@
 # 🌻🦖 hello world!:
- <br>**I'm Ishita, a professional bug magnet**<br><br> learning everything from machine learning to how not to break my code at 2 AM  <br> building projects that blend GenAI, ethical tech, and pixel-perfect design<br> i like teaching machines to think and occasionally convince them to do cool stuff.<br> currently building things I can’t fully explain (using deep learning- it's a blackbox).<br> juggling secret side quests, research projects, and the occasional existential crisis when Git refuses to cooperate.<br><br>
+ <br>**I'm Ishita, a professional bug magnet**<br><br> - learning everything from machine learning to how not to break my code at 2 AM  <br> - building projects that blend GenAI, ethical tech, and pixel-perfect design<br> - i like teaching machines to think and occasionally convince them to do cool stuff.<br> - currently building things I can’t fully explain (using deep learning- it's a blackbox).<br> - juggling secret side quests, research projects, and the occasional existential crisis when Git refuses to cooperate.<br><br>
 
 ## socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inkedin.com/in/ishita-akolkar) 
