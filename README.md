@@ -3,7 +3,7 @@
 <br>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=13&duration=4000&pause=1000&color=C9A0A0&center=true&vCenter=true&width=500&lines=applied+genai+engineer+%C2%B7+ahmedabad%2C+india;building+voice+ai+%C2%B7+agentic+systems+%C2%B7+rag;turning+ideas+into+deployed+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=13&duration=4000&pause=1000&color=C9A0A0&center=true&vCenter=true&width=500&lines=applied+genai+engineer+%2C+india;building+voice+ai+%C2%B7+agentic+systems+%C2%B7+rag;turning+ideas+into+deployed+products" alt="Typing SVG" />
 </picture>
 
 <br>
