@@ -1,136 +1,174 @@
-# hello world, I'm Ishita 👋
+<div align="center">
 
-Applied GenAI Engineer building production-focused AI systems, agentic workflows, retrieval architectures, and real-world AI products.
+<br>
 
-I enjoy working on systems where:
-`LLMs + backend engineering + product thinking` intersect.
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=13&duration=4000&pause=1000&color=C9A0A0&center=true&vCenter=true&width=500&lines=applied+genai+engineer+%C2%B7+ahmedabad%2C+india;building+voice+ai+%C2%B7+agentic+systems+%C2%B7+rag;turning+ideas+into+deployed+products" alt="Typing SVG" />
+</picture>
 
-Currently exploring:
-- Agentic AI systems
-- Voice AI & realtime conversational systems
-- Retrieval-Augmented Generation (RAG)
-- AI orchestration pipelines
-- Human-AI interaction systems
+<br>
 
----
+# hello world, Ishita here!
 
-## What I'm Building Right Now
+<sub>Applied GenAI Engineer &nbsp;·&nbsp; LLMs + Backend + Product Thinking &nbsp;·&nbsp; Production over Demo</sub>
 
-- Voice AI interview preparation agent using Pipecat
-- Multi-step agentic workflows using LangChain + FastAPI
-- Hybrid retrieval systems combining semantic + structured search
-- Production-focused AI automation pipelines
-- Retrieval systems over structured databases
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishita--akolkar-%23C9A0A0?style=flat-square&logo=linkedin&logoColor=white&labelColor=d4b5b5)](https://linkedin.com/in/ishita-akolkar)&nbsp;
+[![Email](https://img.shields.io/badge/Email-akolkarishita%40gmail.com-%23C9A0A0?style=flat-square&logo=gmail&logoColor=white&labelColor=d4b5b5)](mailto:akolkarishita@gmail.com)
 
-## Areas I Work In
+</div>
 
-### Applied GenAI Engineering
-- RAG pipelines
-- Tool calling & agent orchestration
-- LLM integrations
-- Context engineering
-- Prompt optimization
-- Retrieval systems
-
-### Backend & AI Infrastructure
-- FastAPI backend systems
-- API integrations
-- Authentication workflows
-- Vector databases
-- Structured query pipelines
-- Real-time AI workflows
-
-### AI Research & Deep Learning
-- Deepfake detection systems
-- Multimodal AI
-- Computer vision
-- NLP systems
-- CNN/LSTM/Transformer architectures
+<br>
 
 ---
 
-## Tech Stack
+<div align="center"><sup>✦ &nbsp; about &nbsp; ✦</sup></div>
 
-### AI / GenAI
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC4D?style=flat-square&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+<br>
 
-### Backend & Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+I build AI systems where **LLMs meet backend engineering meet real product thinking.** Not notebooks — production. Not prototypes — shipped.
 
-### Currently Exploring
-![Pipecat](https://img.shields.io/badge/Pipecat-000000?style=flat-square)
-![Voice AI](https://img.shields.io/badge/Voice_AI-1f6feb?style=flat-square)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_AI-6f42c1?style=flat-square)
+Currently deep in: `voice AI` · `agentic architectures` · `hybrid retrieval` · `realtime AI workflows`
+
+<br>
 
 ---
 
-## A Few Things About Me
+<div align="center"><sup>✦ &nbsp; what i'm building &nbsp; ✦</sup></div>
 
-- I like turning messy ideas into working systems.
-- I care more about deployed AI than notebook demos.
-- I enjoy debugging architecture problems more than writing boilerplate.
-- I love building fast, breaking things, and rebuilding them better.
-- I think the future belongs to engineers who can ship AI products, not just train models.
+<br>
 
----
+| &nbsp; | Project | Stack |
+|---|---|---|
+| 🎙️ | Voice AI Interview Prep Agent | Pipecat · OpenAI · FastAPI |
+| 🤖 | Multi-step Agentic Workflows | LangChain · FastAPI · Tool Calling |
+| 🔍 | Hybrid Retrieval System | FAISS · pgvector · BM25 · Reranking |
+| ⚡ | AI Automation Pipelines | LangChain · Celery · Docker |
+| 🗂️ | Structured DB Retrieval | NL2SQL · PostgreSQL · LLM layers |
 
-## Research & Recognition
-
-- Published AI research papers currently under review
-- IEEE SPS Travel Grant Awardee
-- Two-time SSIP Gujarat Grant Recipient
-- Hackathon winner & finalist across multiple AI competitions
+<br>
 
 ---
 
-## Current Focus
+<div align="center"><sup>✦ &nbsp; what i work in &nbsp; ✦</sup></div>
 
-Right now I'm deeply interested in:
-- production AI systems
-- voice-first AI experiences
-- agentic architectures
-- scalable retrieval systems
-- AI products people actually use
+<br>
 
----
+**Applied GenAI**
+&nbsp; RAG pipelines &nbsp;·&nbsp; tool calling & agent orchestration &nbsp;·&nbsp; LLM integrations &nbsp;·&nbsp; context engineering &nbsp;·&nbsp; prompt optimization &nbsp;·&nbsp; retrieval systems
 
-## Connect With Me
+**Backend & AI Infrastructure**
+&nbsp; FastAPI &nbsp;·&nbsp; vector databases &nbsp;·&nbsp; authentication workflows &nbsp;·&nbsp; structured query pipelines &nbsp;·&nbsp; realtime AI &nbsp;·&nbsp; Docker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita-akolkar)
+**Research & Deep Learning**
+&nbsp; deepfake detection &nbsp;·&nbsp; multimodal AI &nbsp;·&nbsp; computer vision &nbsp;·&nbsp; NLP &nbsp;·&nbsp; CNN / LSTM / Transformers
 
-📫 **Email:** akolkarishita@gmail.com
-
-Always open to:
-- interesting AI conversations
-- startup collaborations
-- GenAI engineering opportunities
-- building cool things
+<br>
 
 ---
 
-# GitHub Stats
+<div align="center"><sup>✦ &nbsp; stack &nbsp; ✦</sup></div>
 
-![](https://github-readme-stats.vercel.app/api?username=ishitaakolkar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishitaakolkar&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaakolkar&theme=tokyonight&hide_border=true&layout=compact)
+![Python](https://img.shields.io/badge/Python-f5ede8?style=flat-square&logo=python&logoColor=C9A0A0)
+![LangChain](https://img.shields.io/badge/LangChain-f5ede8?style=flat-square&logoColor=C9A0A0)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-f5ede8?style=flat-square&logo=huggingface&logoColor=C9A0A0)
+![PyTorch](https://img.shields.io/badge/PyTorch-f5ede8?style=flat-square&logo=pytorch&logoColor=C9A0A0)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-f5ede8?style=flat-square&logo=tensorflow&logoColor=C9A0A0)
+![FAISS](https://img.shields.io/badge/FAISS-f5ede8?style=flat-square&logoColor=C9A0A0)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-f5ede8?style=flat-square&logoColor=C9A0A0)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-f5ede8?style=flat-square&logo=fastapi&logoColor=C9A0A0)
+![Docker](https://img.shields.io/badge/Docker-f5ede8?style=flat-square&logo=docker&logoColor=C9A0A0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f5ede8?style=flat-square&logo=postgresql&logoColor=C9A0A0)
+![Firebase](https://img.shields.io/badge/Firebase-f5ede8?style=flat-square&logo=firebase&logoColor=C9A0A0)
+![Git](https://img.shields.io/badge/Git-f5ede8?style=flat-square&logo=git&logoColor=C9A0A0)
+![Pipecat](https://img.shields.io/badge/Pipecat-f5ede8?style=flat-square&logoColor=C9A0A0)
+
+</div>
+
+<br>
 
 ---
 
-# Profile Views
+<div align="center"><sup>✦ &nbsp; recognition &nbsp; ✦</sup></div>
 
-![](https://visitcount.itsvg.in/api?id=ishitaakolkar&icon=5&color=12)
+<br>
+
+<div align="center">
+
+🏅 &nbsp; IEEE SPS Travel Grant Awardee
+&nbsp;&nbsp;&nbsp;&nbsp;
+🏅 &nbsp; Two-time SSIP Gujarat Grant Recipient
+
+🥇 &nbsp; Hackathon Winner & Finalist — multiple AI competitions
+&nbsp;&nbsp;&nbsp;&nbsp;
+📄 &nbsp; AI Research Papers under review for publication
+
+</div>
+
+<br>
+
+---
+
+<div align="center"><sup>✦ &nbsp; a few things &nbsp; ✦</sup></div>
+
+<br>
+
+<div align="center">
+
+*I like turning messy ideas into working systems.*
+
+*I care more about deployed AI than notebook demos.*
+
+*I think the future belongs to engineers who ship — not just train.*
+
+</div>
+
+<br>
+
+---
+
+<div align="center"><sup>✦ &nbsp; github &nbsp; ✦</sup></div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ishitaakolkar&hide_border=true&include_all_commits=true&count_private=true&bg_color=fdf6f0&title_color=c9a0a0&text_color=8c7b7b&icon_color=d4b5b5" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaakolkar&hide_border=true&background=fdf6f0&ring=c9a0a0&fire=d4b5b5&currStreakLabel=c9a0a0&sideLabels=8c7b7b&dates=b5a0a0" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaakolkar&hide_border=true&layout=compact&bg_color=fdf6f0&title_color=c9a0a0&text_color=8c7b7b" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<br>
+
+<sub>open to &nbsp;·&nbsp; interesting ai conversations &nbsp;·&nbsp; startup collaborations &nbsp;·&nbsp; genai engineering opportunities</sub>
+
+<br>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=ishitaakolkar&icon=9&color=6)
+
+<br>
+
+<sub><i>✦ &nbsp; always building &nbsp; ✦</i></sub>
+
+<br>
+
+</div>
